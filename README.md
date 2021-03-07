@@ -1,34 +1,4 @@
 # convex-lens
+vue.jsで作図する 凸レンズの焦点問題
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![sparkline5](https://user-images.githubusercontent.com/79369229/110251687-00954700-7fc5-11eb-9157-329b8d324240.gif)
