@@ -8,7 +8,7 @@
 
     <v-main>
       <v-row justify="center" class="mt-8">
-        <v-col cols="6">
+        <v-col cols="11" md="6">
           <v-slider
             label="LIGHT_HEIGHT"
             v-model="LIGHT_HEIGHT"
